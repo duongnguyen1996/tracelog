@@ -3,6 +3,6 @@ import blank
 
 
 def test_blank_package():
-    my_str = "minhng.info"
+    my_str = "duongnguyen1996"
     rev_str = blank.reverse(my_str)
     assert rev_str == "ofni.gnhnim"
