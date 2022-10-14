@@ -2,4 +2,4 @@
 
 
 def say_hello():
-    print("Welcome to Smile package!")
+    print("Welcome to Blank package!")

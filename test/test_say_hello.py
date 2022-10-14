@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
-import blank
+import trace
 
 
 def test_say_hello():
     try:
-        blank.main.say_hello()
+        trace.main.say_hello()
         assert True
     except Exception as e:
         print(e)
